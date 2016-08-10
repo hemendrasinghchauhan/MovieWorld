@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">MovieWorld</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh" translatable="false">Refresh</string>
+    <string name="action_popular" translatable="false">Popular</string>
+    <string name="action_toprated" translatable="false">TopRated</string>
+    <string name="title_activity_detail__movie_">Detail_Movie_Activity</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="action_share">Share</string>
+    <string name="title">title</string>
+    <string name="date">Date:</string>
+    <string name="rating">Rating:</string>
+    <string name="hello">hello</string>
+    <string name="review">Review:</string>
+    <string name="trailer">Trailer:</string>
+    <string name="First">First</string>
+    <string name="Second">Second</string>
+    <string name="Third">Third</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_navigate">Navigate</string>
+    <string name="title_activity_media_player">MediaPlayer</string>
+    <string name="title_activity_vedio_view_actvity">VedioViewActvity</string>
+    <string name="View_Option">View Option</string>
+    <string name="Movies">Movies</string>
+    <string name="released_on">Released on</string>
+    <string name="Rating">Rating</string>
+    <string name="Review">Review</string>
+    <string name="drawer_open">drawerOpen</string>
+    <string name="drawer_close">drawerClose</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="player_error">Error initializing YouTube player</string>
+    <string name="seek_to">Jump To</string>
+    <string name="seek_to_hint">Seconds</string>
+
+</resources>
